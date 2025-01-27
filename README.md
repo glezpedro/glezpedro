@@ -27,6 +27,6 @@
 <h3 align="left">Proyecto Programación Orientada a Objetos:</h3>
 <p align="left">
   <a href="https://github.com/glezpedro/ApocalipsisZombie" target="_blank">
-    <img src="https://github.com/glezpedro/glezpedro/blob/main/images.jpg" alt="Zombie" width="100" height="100">
+    <img src="https://github.com/glezpedro/glezpedro/blob/main/images.jpg" alt="Zombie" width="70" height="70">
   </a>
 </p>
